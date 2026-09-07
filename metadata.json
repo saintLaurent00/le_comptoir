@@ -1,0 +1,6 @@
+{
+  "name": "Le Comptoir",
+  "description": "Gestion de maquis & cave — flux entrées/sorties, factures, caisse, stock et rapports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
